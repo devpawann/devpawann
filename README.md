@@ -18,13 +18,40 @@ I Like to convey imaginations running in my mind through my code 😉
 
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=devpawann&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=devpawann&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true&show_owner=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpawann&hide=TeX&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&count_private=true&bg_color=151515&langs_count=20)
 
 <br>
 <br>
+## ⚡ Technologies
+
+
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-purple?style=flat-square&logo=Dart)
+![Kotlin](https://img.shields.io/badge/-Flutter-darkred?style=flat-square&logo=Kotlin)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
 
 **My Recent posts on Medium!**
 
 
 <a target="_blank" href="https://pawanacharya070.medium.com/flutter-bloc-freezed-589102416234"><img src="https://miro.medium.com/max/1400/1*K7YTFWejsoWAMxXN-KRKFw.png" alt="Recent Article on medium" height=200 ></img></a>
+
+
 
