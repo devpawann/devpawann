@@ -7,17 +7,29 @@
 
 
 
+<br>
 
-**devpawann/devpawann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm [Pawan Acharya](https://www.devpawann.com.np/).
+I am mobile app developer 👩‍💻 working in Native (Kotlin/Java) and Cross-platform (Flutter) from Nepal.
+<br>
+I Like to convey imaginations running in my mind through my code 😉
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=devpawann&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
