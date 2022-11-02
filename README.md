@@ -26,8 +26,10 @@ I Like to convey imaginations running in my mind through my code 😉
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpawann&hide=TeX&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&count_private=true&bg_color=151515&langs_count=20)
 
 <br>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=devpawann&" alt="pawan" /></p>
+
 <br>
-## ⚡ Technologies
+<h3> ⚡ Technologies</h3>
 
 
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
@@ -52,6 +54,9 @@ I Like to convey imaginations running in my mind through my code 😉
 
 
 <a target="_blank" href="https://pawanacharya070.medium.com/flutter-bloc-freezed-589102416234"><img src="https://miro.medium.com/max/1400/1*K7YTFWejsoWAMxXN-KRKFw.png" alt="Recent Article on medium" height=200 ></img></a>
+
+
+<a target="_blank" href="https://medium.com/codingmountain-blog/17-vim-shortcuts-that-wont-hurt-learning-f037775d61ef"><img src="https://miro.medium.com/max/4800/1*C7-vbVJpL0H-M9Bfkz1jiw.png" alt="Recent Article on medium" height=200 ></img></a>
 
 
 
