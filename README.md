@@ -58,5 +58,7 @@ I Like to convey imaginations running in my mind through my code 😉
 
 <a target="_blank" href="https://medium.com/codingmountain-blog/17-vim-shortcuts-that-wont-hurt-learning-f037775d61ef"><img src="https://miro.medium.com/max/4800/1*C7-vbVJpL0H-M9Bfkz1jiw.png" alt="Recent Article on medium" height=200 ></img></a>
 
+<a target="_blank" href="https://medium.com/p/d9db5df5d3b3"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*02O0vDNm7pMzHZxFOMn3zw.png" alt="Recent Article on medium" height=200 ></img></a>
+
 
 
