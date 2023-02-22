@@ -63,7 +63,7 @@ I Like to convey imaginations running in my mind through my code 😉
 
 <a target="_blank" href="https://medium.com/p/d9db5df5d3b3"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*02O0vDNm7pMzHZxFOMn3zw.png" alt="Recent Article on medium" height=200 ></img></a>
 
-<a target="_blank" href="https://medium.com/@pawanacharya070/journaling-for-clarity-662e7e51fdea"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CLkmezaqa7Vq2BmsO8nnkQ.png" alt="Recent Article on medium" height=200 ></img></a>
+<a target="_blank" href="https://medium.com/@pawanacharya070">Click For More...</a>
 
 
 
