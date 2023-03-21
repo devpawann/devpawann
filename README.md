@@ -63,6 +63,8 @@ I Like to convey imaginations running in my mind through my code 😉
 
 <a target="_blank" href="https://medium.com/p/d9db5df5d3b3"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*02O0vDNm7pMzHZxFOMn3zw.png" alt="Recent Article on medium" height=200 ></img></a>
 
+<a target="_blank" href="https://medium.com/codingmountain-blog/what-is-pubspec-lock-and-why-should-flutter-devs-care-86ab4d0b47fc"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qZeiHc_BZR9E2G0ZI_zi6g.png" alt="Recent Article on medium" height=200 ></img></a>
+
 <a target="_blank" href="https://medium.com/@pawanacharya070">Click For More...</a>
 
 
