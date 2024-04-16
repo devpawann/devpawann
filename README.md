@@ -54,26 +54,16 @@ I Like to convey imaginations running in my mind through my code 😉
 
 
 ### 📝 My Latest Blog Post in Medium
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/0" alt="Recent Article 0"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/1" alt="Recent Article 1"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/2" alt="Recent Article 2"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/3" alt="Recent Article 3"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/4" alt="Recent Article 4"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/5" alt="Recent Article 5"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/6" alt="Recent Article 6"></a>
-<br>
-
-**My Recent posts on Medium!**
-
-
-<a target="_blank" href="https://pawanacharya070.medium.com/flutter-bloc-freezed-589102416234"><img src="https://miro.medium.com/max/1400/1*K7YTFWejsoWAMxXN-KRKFw.png" alt="Recent Article on medium" height=200 ></img></a>
-
-
-<a target="_blank" href="https://medium.com/codingmountain-blog/17-vim-shortcuts-that-wont-hurt-learning-f037775d61ef"><img src="https://miro.medium.com/max/4800/1*C7-vbVJpL0H-M9Bfkz1jiw.png" alt="Recent Article on medium" height=200 ></img></a>
-
-<a target="_blank" href="https://medium.com/p/d9db5df5d3b3"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*02O0vDNm7pMzHZxFOMn3zw.png" alt="Recent Article on medium" height=200 ></img></a>
-
-<a target="_blank" href="https://medium.com/codingmountain-blog/what-is-pubspec-lock-and-why-should-flutter-devs-care-86ab4d0b47fc"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qZeiHc_BZR9E2G0ZI_zi6g.png" alt="Recent Article on medium" height=200 ></img></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/2" alt="Recent Article 2"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/3" alt="Recent Article 3"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/4" alt="Recent Article 4"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/5" alt="Recent Article 5"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/6" alt="Recent Article 6"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/7" alt="Recent Article 7"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/8" alt="Recent Article 8"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/9" alt="Recent Article 9"></a>
 
 <a target="_blank" href="https://medium.com/@pawanacharya070">Click For More...</a>
 
