@@ -54,7 +54,7 @@ I Like to convey imaginations running in my mind through my code 😉
 
 ## Badges
 
-[![@devpawann's Holopin board](https://holopin.io/api/user/board?user=devpawann)](https://holopin.io/@devpawann)
+[![@devpawann's Holopin badges](https://holopin.me/devpawann)](https://holopin.io/@devpawann)
 
 
 ### 📝 My Latest Blog Post in Medium
