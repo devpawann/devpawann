@@ -9,7 +9,7 @@
 
 <br>
 
-Hi, I'm [Pawan Acharya](https://www.devpawann.com.np/).
+Hi, I'm [Pawan Acharya](https://www.acharyapawan.com.np/).
 I am mobile app developer 👩‍💻 working in Native (Kotlin/Java) and Cross-platform (Flutter) from Nepal.
 <br>
 I Like to convey imaginations running in my mind through my code 😉
@@ -51,6 +51,10 @@ I Like to convey imaginations running in my mind through my code 😉
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+## Badges
+
+[![@devpawann's Holopin board](https://holopin.io/api/user/board?user=devpawann)](https://holopin.io/@devpawann)
 
 
 ### 📝 My Latest Blog Post in Medium
