@@ -64,10 +64,6 @@ I Like to convey imaginations running in my mind through my code 😉
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/3" alt="Recent Article 3"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/4" alt="Recent Article 4"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/5" alt="Recent Article 5"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/6" alt="Recent Article 6"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/7" alt="Recent Article 7"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/8" alt="Recent Article 8"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pawanacharya070/9" alt="Recent Article 9"></a>
 
 <a target="_blank" href="https://medium.com/@pawanacharya070">Click For More...</a>
 
